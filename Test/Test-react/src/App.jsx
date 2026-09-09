@@ -1,10 +1,8 @@
-import './App.css'
+import React from 'react'
 
-function App() {
+const App = () => {
   return (
-    <>
-      const f
-    </>
+    <div>App</div>
   )
 }
 
