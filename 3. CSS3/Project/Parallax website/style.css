@@ -52,4 +52,4 @@ section {
     linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
     url("https://images.pexels.com/photos/1894263/pexels-photo-1894263.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
 }
-/* Use same bg image for every section to create text scroll animation but bg image not scroll. */
+/* Use same background image for every section to create text scroll animation but background image not scroll. */
