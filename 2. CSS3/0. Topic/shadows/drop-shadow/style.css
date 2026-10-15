@@ -52,5 +52,5 @@ img {
   /*box-shadow: 0 0 0 40px #fff;
   */ /*?filtershadowhere*/
 
-  -webkit-filter: drop-shadow(-10px 10px 0 #f90000);
+  filter: drop-shadow(-10px 10px 0 #f90000);
 }
