@@ -1,2 +1,2 @@
-# My Web Development Course.
+# My Web Development Course
 
